@@ -1,5 +1,6 @@
 # Vue-Speech-Reco
 Simple vue js way speech to text and text to speech
+![Speech](https://user-images.githubusercontent.com/23725255/72082949-4ee78100-3301-11ea-9f96-d74f36c8c946.PNG)
 
 ### Created two button with methods for speech to text and text to speech
 
